@@ -74,6 +74,8 @@ NIBRS_Offense_16_19 dataset:
 
 In the initial data analysis, we explored the structured dataset to uncover initial patterns, characteristics, creating a broad picture of important trends and major points to study in greater detail which took place in Tableau and will be incorporated in the dashboard.
 .  The variable we will be included in the predictive models are Nominal data  type.  Nominal data cannot be used in statistical computation like mean and standard deviation.  As shown in the DataExploration_phase.ipynb, the descriptive statistics performed to both datasets did not show any significance output.  Cross tabulations used with Nominal variables then chi-square test can be performed on a cross-tabulation but beyond the scope of this project.
+
+[Incidents by Year and Month Breakdown.]:https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG
 			
 ### Description of the analysis phase of the project
 Which models  did you choose and why?
