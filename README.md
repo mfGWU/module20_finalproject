@@ -18,10 +18,10 @@ We will employ Tableau to build a dashboard to present results and the presentat
 # Description of the communication protocols
 No communication protocols as the project was completed by single person. Used GitHub as a means to upload all the deliverables.
 
-### Individual Branches
+# Individual Branches
 No individual branches were created as the project was completed by single person.
 
-### Outline of the project
+# Outline of the project
 
 ### Selected Topic
 For topic of the final project, we selected Burglary and Robbery as crimes indicators in the state of Colorado define to discover data patterns and with the use Machine Learning Models to predict when crimes will take place based on the indicators.
