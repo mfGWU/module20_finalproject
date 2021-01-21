@@ -12,7 +12,7 @@ PostgreSQL is the database we intend to use, and we will integrate Jupyter Noteb
 SciKitLearn is the ML library we'll be using to create a classifier especifically Logistic Regression and Support Vector Machines (SVM)  models. Our training and testing setup is sklearn.model_selection importing the train_test_split.
 
 ### Dashboard
-We will employ Tableau to build a dashboard to present results and the presentation was finalized in Google Slides. 
+We will employ Tableau to build a dashboard to present results and the presentation was finalized in Google Slides which was saved as PDF (Predicting Crimes Google Slides.pdf). 
 
 
 # Description of the communication protocols
@@ -75,12 +75,21 @@ NIBRS_Offense_16_19 dataset:
 In the initial data analysis, we explored the structured dataset to uncover initial patterns, characteristics, creating a broad picture of important trends and major points to study in greater detail which took place in Tableau and will be incorporated in the dashboard.
 .  The variable we will be included in the predictive models are Nominal data  type.  Nominal data cannot be used in statistical computation like mean and standard deviation.  As shown in the DataExploration_phase.ipynb, the descriptive statistics performed to both datasets did not show any significance output.  Cross tabulations used with Nominal variables then chi-square test can be performed on a cross-tabulation but beyond the scope of this project.
 
-Incidents by Year and Month Breakdown:![alt text](https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG "Logo Title Text 1 "Incidents by Year and Month")
+
 
 Incidents by Year and Month Breakdown: 
 ![alt text][logo]
 
 [logo]: https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG "Incidents by Year and Month Breakdown"
+
+
+
+Offense by Year and Month Breakdown: 
+![alt text][logo]
+
+[logo]: https://github.com/mfGWU/module20_finalproject/commit/9009ff181d4316b92924c7f839546238dca99795?short_path=90b9f82#diff-af95cdea38da2aad6b86b0c6063debf900a7e469839c9678180fe4d61ad913a9 "Offense by Year and Month Breakdown"
+
+
 			
 ### Description of the analysis phase of the project
 Which models  did you choose and why?
