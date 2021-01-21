@@ -76,6 +76,11 @@ In the initial data analysis, we explored the structured dataset to uncover init
 .  The variable we will be included in the predictive models are Nominal data  type.  Nominal data cannot be used in statistical computation like mean and standard deviation.  As shown in the DataExploration_phase.ipynb, the descriptive statistics performed to both datasets did not show any significance output.  Cross tabulations used with Nominal variables then chi-square test can be performed on a cross-tabulation but beyond the scope of this project.
 
 Incidents by Year and Month Breakdown:![alt text](https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG "Logo Title Text 1 "Incidents by Year and Month")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 			
 ### Description of the analysis phase of the project
 Which models  did you choose and why?
