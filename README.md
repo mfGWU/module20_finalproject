@@ -77,10 +77,10 @@ In the initial data analysis, we explored the structured dataset to uncover init
 
 Incidents by Year and Month Breakdown:![alt text](https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG "Logo Title Text 1 "Incidents by Year and Month")
 
-Reference-style: 
+Incidents by Year and Month Breakdown: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/mfGWU/module20_finalproject/blob/main/img/Incidents%20by%20Year%20and%20Month%20Breakdown.JPG "Incidents by Year and Month Breakdown"
 			
 ### Description of the analysis phase of the project
 Which models  did you choose and why?
