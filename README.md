@@ -15,9 +15,9 @@ SciKitLearn is the ML library we'll be using to create a classifier especificall
 We will employ Tableau to build a dashboard to present results and the presentation was finalized in Google Slides which was saved as PDF in this repository (Predicting Crimes Google Slides.pdf). 
 
 Predicting Crimes Dashboard Link: 
-![alt text][logo]
+![Predicting Crimes Dashboard][logo]
 
-[logo]: https://public.tableau.com/profile/ml4223#!/vizhome/PredictingCrimesFinalProject/PredictingCrime?publish=yes "Predicting Crimes Dashboard"
+[logo]: https://public.tableau.com/profile/ml4223#!/vizhome/PredictingCrimesFinalProject/PredictingCrime?publish=yes
 
 
 # Description of the communication protocols
