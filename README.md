@@ -12,7 +12,12 @@ PostgreSQL is the database we intend to use, and we will integrate Jupyter Noteb
 SciKitLearn is the ML library we'll be using to create a classifier especifically Logistic Regression and Support Vector Machines (SVM)  models. Our training and testing setup is sklearn.model_selection importing the train_test_split.
 
 ### Dashboard
-We will employ Tableau to build a dashboard to present results and the presentation was finalized in Google Slides which was saved as PDF (Predicting Crimes Google Slides.pdf). 
+We will employ Tableau to build a dashboard to present results and the presentation was finalized in Google Slides which was saved as PDF in this repository (Predicting Crimes Google Slides.pdf). 
+
+Predicting Crimes Dashboard Link: 
+![alt text][logo]
+
+[logo]: https://public.tableau.com/profile/ml4223#!/vizhome/PredictingCrimesFinalProject/PredictingCrime?publish=yes "Predicting Crimes Dashboard"
 
 
 # Description of the communication protocols
